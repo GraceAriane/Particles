@@ -24,6 +24,7 @@ This project was built while following a course on Udemy as part of a training t
 
 ## 🚀 Getting Started
 
+- Live Site - [Particles](https://particles-gilt.vercel.app/)
 
 ## 👨‍💻 Author
 
